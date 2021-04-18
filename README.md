@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- ⚡ I’m currently working on React Native | Typescript | Firebase
-- 🌱 I’m currently learning Next.js | Socket.io | 
+- ⚡ I’m currently working on React.js | React Native | Typescript | Firebase
+- 🚧 I’m currently learning Next.js | Socket.io | Tailwindcss
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuriPerro&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
   
