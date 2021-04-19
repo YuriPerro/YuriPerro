@@ -1,7 +1,11 @@
-### Hi there 👋
+### 👋 Hi there 
 
-- ⚡ I’m currently working on [React.js](https://pt-br.reactjs.org/) | [React Native](https://reactnative.dev/) | [Typescript](https://www.typescriptlang.org/) | [Firebase](https://firebase.google.com/?hl=pt) | [Node.js](https://nodejs.org/en/)
-- 🚧 I’m currently learning [Next.js](https://nextjs.org/) | [Socket.io](https://socket.io/) | [Tailwindcss](https://tailwindcss.com/docs)
+- 🚀 I’m currently working on urban mobility app with [React.js](https://pt-br.reactjs.org/) | [React Native](https://reactnative.dev/) | [Typescript](https://www.typescriptlang.org/) | [Firebase](https://firebase.google.com/?hl=pt) | [Node.js](https://nodejs.org/en/)
+- 🚧 I’m currently learning [Next.js](https://nextjs.org/) | [Socket.io](https://socket.io/) | [Tailwindcss](https://tailwindcss.com/docs) | [GitHub Actions](https://github.com/features/actions)
+- 📫 yuribaumgartner@gmail.com
+- 🔛 [Linkedin - Yuri Perro](https://www.linkedin.com/in/yuri-baumgartner/)
+
+<!-- ## ⚡ Skills -->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuriPerro&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
   
