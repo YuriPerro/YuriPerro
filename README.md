@@ -1,7 +1,7 @@
 ### 👋 Hi there 
 
 - 🚀 I’m currently working on urban mobility app with [React.js](https://pt-br.reactjs.org/) | [React Native](https://reactnative.dev/) | [Typescript](https://www.typescriptlang.org/) | [Firebase](https://firebase.google.com/?hl=pt) | [Node.js](https://nodejs.org/en/)
-- 🚧 I’m currently learning [Next.js](https://nextjs.org/) | [Socket.io](https://socket.io/) | [Tailwindcss](https://tailwindcss.com/docs) | [GitHub Actions](https://github.com/features/actions)
+- 🚧 I’m currently learning [Next.js](https://nextjs.org/) | [Tailwindcss](https://tailwindcss.com/docs)
 - 📫 yuribaumgartner@gmail.com
 - 🔛 [Linkedin - Yuri Perro](https://www.linkedin.com/in/yuri-baumgartner/)
 
