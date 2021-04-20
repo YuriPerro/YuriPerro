@@ -5,7 +5,7 @@
 - 📫 yuribaumgartner@gmail.com
 - 🔛 [Linkedin - Yuri Perro](https://www.linkedin.com/in/yuri-baumgartner/)
 
-<!-- ## ⚡ Skills -->
+<!-- ## ⚡ Languages and Tools: -->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuriPerro&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
   
