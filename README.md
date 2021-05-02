@@ -1,3 +1,6 @@
+## Yuri Baumgartner
+<hr/>
+
 ### 👋 Hi there 
 
 - 🚀 I’m currently working on urban mobility app with [React.js](https://pt-br.reactjs.org/) | [React Native](https://reactnative.dev/) | [Typescript](https://www.typescriptlang.org/) | [Firebase](https://firebase.google.com/?hl=pt) | [Node.js](https://nodejs.org/en/)
