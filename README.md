@@ -1,4 +1,4 @@
-## Yuri Baumgartner
+## Yuri P. Baumgartner
 
 
 ### <img width=30 height=30 src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="Hi"> Hi there 
