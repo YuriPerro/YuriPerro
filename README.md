@@ -1,5 +1,5 @@
 ## Yuri Baumgartner
-<hr/>
+
 
 ### <img width=30 height=30 src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="Hi"> Hi there 
 
@@ -7,7 +7,6 @@
 - 🚧 I’m currently learning [Next.js](https://nextjs.org/) | [Tailwindcss](https://tailwindcss.com/docs)
 - 📫 yuribaumgartner@gmail.com
 - 🔛 [Linkedin - Yuri Perro](https://www.linkedin.com/in/yuri-baumgartner/)
-
 
 
 <!-- ## ⚡ Languages and Tools: -->
