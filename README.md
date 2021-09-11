@@ -2,6 +2,7 @@
 
 ### <img width=32 height=32 src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="Hi"> Hi there 
 
+- 🎓 Majoring in System Information at Federal University of Juiz de Fora
 - 🚀 I’m Development analyst mobile on [Mais Controle](https://maiscontroleerp.com.br/) and freelancer on [Urban mobility app](https://play.google.com/store/apps/details?id=br.com.client.evas) 
 - 🚧 I’m currently learning [Next.js](https://nextjs.org/) | [Tailwindcss](https://tailwindcss.com/docs)
 - 📫 yuribaumgartner@gmail.com
