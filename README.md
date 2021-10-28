@@ -1,4 +1,4 @@
-## Yuri Baumgartner <img width=20 height=20 src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" alt="Hi">
+## Yuri Baumgartner
 
 ### <img width=32 height=32 src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="Hi"> Hi there 
 
