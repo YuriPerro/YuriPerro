@@ -1,5 +1,3 @@
- Yuri Baumgartner
-
 <!-- ### <img width=32 height=32 src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="Hi"> Hi there -->
 ## Hi there
 
