@@ -1,12 +1,16 @@
-## Yuri Baumgartner
+ Yuri Baumgartner
 
 <!-- ### <img width=32 height=32 src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="Hi"> Hi there -->
 ## Hi there
 
 - 🎓 Majoring in System Information at Federal University of Juiz de Fora
+
 - 🚀 I’m Development analyst mobile on [Mais Controle](https://maiscontroleerp.com.br/) and freelancer on [Urban mobility app](https://play.google.com/store/apps/details?id=br.com.client.evas) 
+
 - 🚧 I’m currently learning [Next.js](https://nextjs.org/) | [Tailwindcss](https://tailwindcss.com/docs)
+
 - 📫 yuribaumgartner@gmail.com
+
 - 🔛 [Linkedin - Yuri Perro](https://www.linkedin.com/in/yuri-baumgartner/)
 
 <img align="right" width="200em" height="200em" src="https://raw.githubusercontent.com/YuriPerro/YuriPerro/master/animation_500_kv8i962g.gif"/>
@@ -15,6 +19,7 @@
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=YuriPerro&hide=issues&count_private=true&show_icons=true&theme=radical" alt="Yuri's stats"/>
 </p>
  
+ ##
 ![Snake animation](https://github.com/YuriPerro/YuriPerro/blob/output/github-contribution-grid-snake.svg)
   
 <!--
