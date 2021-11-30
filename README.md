@@ -13,7 +13,7 @@
 
 <!-- <img align="right" width="200em" height="200em" src="https://raw.githubusercontent.com/YuriPerro/YuriPerro/master/animation_500_kv8i962g.gif"/> -->
 
-<p align="left">
+<p align="right">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=YuriPerro&hide=issues&count_private=true&show_icons=true&theme=radical" alt="Yuri's stats"/>
 </p>
  
