@@ -5,7 +5,7 @@
 
 - 🚀 I’m Development analyst mobile at [HubXP](https://www.hubxp.com.br/)
 
-- 🚧 I’m currently learning [Next.js](https://nextjs.org/) | [Tailwindcss](https://tailwindcss.com/docs)
+- 🚧 I’m currently learning NodeJS | [Next.js](https://nextjs.org/) | [Tailwindcss](https://tailwindcss.com/docs) 
 
 - 📫 yuribaumgartner@gmail.com
 
