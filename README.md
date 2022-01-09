@@ -5,7 +5,7 @@
 
 - 🚀 I’m Mobile development analyst
 
-- 🚧 I’m currently learning NodeJS | [Next.js](https://nextjs.org/) | [Tailwindcss](https://tailwindcss.com/docs) 
+- 🚧 I’m currently learning [NodeJS](https://nodejs.org/en/) | [Next.js](https://nextjs.org/) | [Tailwindcss](https://tailwindcss.com/docs) 
 
 - 📫 yuribaumgartner@gmail.com
 
