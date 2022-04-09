@@ -3,7 +3,7 @@
 
 - 🎓 Majoring in System Information at Federal University of Juiz de Fora
 
-- 🚀 I’m Mobile development analyst
+- 🚀 I’m Mobile Developer Analyst
 
 - 🚧 I’m currently learning [NodeJS](https://nodejs.org/en/) | [Next.js](https://nextjs.org/) | [Tailwindcss](https://tailwindcss.com/docs) 
 
