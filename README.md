@@ -15,9 +15,11 @@
 
 ##
 
+<!--
 <p align="center">
  <img width="530em" src="https://github-readme-stats.vercel.app/api?username=YuriPerro&hide=issues&count_private=true&show_icons=true&theme=vue-dark" alt="Yuri's stats"/>
 </p>
+-->
  
 ![Snake animation](https://github.com/YuriPerro/YuriPerro/blob/output/github-contribution-grid-snake.svg)
   
