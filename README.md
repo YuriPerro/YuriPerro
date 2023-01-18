@@ -9,7 +9,7 @@
 
 - 📫 yuribaumgartner@gmail.com
 
-- 🔛 [Linkedin - Yuri Perro](https://www.linkedin.com/in/yuri-baumgartner/)
+- 🔛 [Linkedin - Yuri Baumgartner](https://www.linkedin.com/in/yuri-baumgartner/)
 
 <!-- <img align="right" width="200em" height="200em" src="https://raw.githubusercontent.com/YuriPerro/YuriPerro/master/animation_500_kv8i962g.gif"/> -->
 
