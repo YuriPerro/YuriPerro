@@ -1,7 +1,7 @@
 <!-- ### <img width=32 height=32 src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="Hi"> Hi there -->
 ## Hi there
 
-- 🎓 Majoring in System Information at Federal University of Juiz de Fora
+- 🎓 Graduating in System Information at Federal University of Juiz de Fora
 
 - 🚀 I’m Mobile Developer Analyst
 
