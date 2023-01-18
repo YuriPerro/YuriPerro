@@ -3,9 +3,9 @@
 
 - 🎓 Graduating in System Information at Federal University of Juiz de Fora
 
-- 🚀 I’m Mobile Developer Analyst
+- 🚀 I’m Sênior Mobile Developer
 
-- 🚧 I’m currently learning [NodeJS](https://nodejs.org/en/) | [Next.js](https://nextjs.org/) | [Tailwindcss](https://tailwindcss.com/docs) 
+- 🚧 I’m currently learning more about [Next.js](https://nextjs.org/) | [Tailwindcss](https://tailwindcss.com/docs) 
 
 - 📫 yuribaumgartner@gmail.com
 
