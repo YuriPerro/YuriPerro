@@ -3,7 +3,7 @@
 
 - 🎓 Graduating in System Information at Federal University of Juiz de Fora
 
-- 🚀 Sênior Mobile Developer
+- 🚀 Mobile Engineer
 
 - 🚧 I’m currently learning more about [Next.js](https://nextjs.org/) | [Tailwindcss](https://tailwindcss.com/docs) 
 
