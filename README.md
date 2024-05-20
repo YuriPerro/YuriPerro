@@ -7,8 +7,6 @@
 
 - 🚧 I’m currently learning more about [Next.js](https://nextjs.org/) | [Tailwindcss](https://tailwindcss.com/docs) 
 
-- 📫 yuribaumgartner@gmail.com
-
 - 🔛 [Linkedin - Yuri Baumgartner](https://www.linkedin.com/in/yuri-baumgartner/)
 
 <!-- <img align="right" width="200em" height="200em" src="https://raw.githubusercontent.com/YuriPerro/YuriPerro/master/animation_500_kv8i962g.gif"/> -->
