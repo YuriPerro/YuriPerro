@@ -1,13 +1,13 @@
 <!-- ### <img width=32 height=32 src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="Hi"> Hi there -->
 ## Hi there
 
-- 🎓 Graduating in System Information at Federal University of Juiz de Fora
+- 🚀 Fullstack Engineer focused on AI development
 
-- 🚀 Mobile Engineer
-
-- 🚧 I’m currently learning more about [Next.js](https://nextjs.org/) | [Tailwindcss](https://tailwindcss.com/docs) 
+- 🎓 Graduated in System Information at Federal University of Juiz de Fora
 
 - 🔛 [Linkedin - Yuri Baumgartner](https://www.linkedin.com/in/yuri-baumgartner/)
+
+<!--   - 🚧 I’m currently learning more about [Next.js](https://nextjs.org/) | [Tailwindcss](https://tailwindcss.com/docs) -->
 
 <!-- <img align="right" width="200em" height="200em" src="https://raw.githubusercontent.com/YuriPerro/YuriPerro/master/animation_500_kv8i962g.gif"/> -->
 
