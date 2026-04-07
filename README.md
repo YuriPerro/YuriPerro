@@ -5,7 +5,7 @@
 
 - 🎓 Graduated in System Information at Federal University of Juiz de Fora
 
-- 🔛 [Linkedin - Yuri Baumgartner](https://www.linkedin.com/in/yuri-baumgartner/)
+<!--  - 🔛 [Linkedin - Yuri Baumgartner](https://www.linkedin.com/in/yuri-baumgartner/) -->
 
 <!--   - 🚧 I’m currently learning more about [Next.js](https://nextjs.org/) | [Tailwindcss](https://tailwindcss.com/docs) -->
 
